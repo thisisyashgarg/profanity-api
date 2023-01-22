@@ -1,5 +1,5 @@
-const userMessage: string = "m**c**d ";
-const hindiCussWords: Array<string> = [
+const userMessage: string = "b**hen ke l**d";
+const hindiCussWords: string[] = [
   "madarchod/mc",
   "gandu",
   "behen ke lode",
