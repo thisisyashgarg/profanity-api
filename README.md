@@ -1,7 +1,6 @@
 # Profanity API
 
-Profanity API is an api used to detect cuss words used by user and answer with a _Yes_ or _No_ based on the cuss words used.
-
+Profanity API is an advanced language detection tool that not only detects commonly used cuss words in English, but also has the capability to detect any variations or misspellings of cuss words, as well as unique cuss words in Hindi language, ensuring that it can accurately identify any offensive language used by the user and respond with a "Yes" or "No" accordingly.
 ## Steps to run locally
 
 1. Clone repo using `https://github.com/thisisyashgarg/profanity-api.git`.
